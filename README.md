@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @debarghaBhattacharjee, and MS Scholar in Indian Instituite of Technology Madras
-- 👀 I’m interested in Machine Learning (ML), Natural Language Processing (NLP), Reinforcement Learning (RL), and Deep Learning (DL).
-- 🌱 I’m currently learning about different ways of leveraging RL algorithms to learn efficient policies for solving NLP tasks.
-- 💞️ I’m looking to collaborate on projects involving of NLP, DL, and RL
-- 📫 How to reach me debarghabhattofficial@gmail.com (Personal), cs19s028@cse.iitm.ac.in (Work)
+- 👋 Hi, I’m @debarghaBhattacharjee, a Perception Engineer at Monarch Tractor.
+- 👀 I’m interested in Deep Learning research, and I have experience in Natural Language Processing (NLP), Reinforcement Learning (RL), and Computer Vision (CV).
+- 🌱 I’m currently designing CV applications for Autonomous Tractors at Monarch Tractor.
+- 💞️ I’m looking to collaborate on DL-related projects, preferably related to CV, NLP, RL, etc.
+- 📫 How to reach me debarghabhattofficial@gmail.com (Personal), dbhattacharjee@monarchtractor.in (Work)
 
 <!---
 debarghaBhattacharjee/debarghaBhattacharjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
