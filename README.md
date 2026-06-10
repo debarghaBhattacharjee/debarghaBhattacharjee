@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @debarghaBhattacharjee, a Perception Engineer at Monarch Tractor.
+- 👋 Hi, I’m @debarghaBhattacharjee, a Senior AI/ML Engineer at Fission Labs.
 - 👀 I’m interested in Deep Learning research, and I have experience in Natural Language Processing (NLP), Reinforcement Learning (RL), and Computer Vision (CV).
 - 🌱 I’m currently designing CV applications for Autonomous Tractors at Monarch Tractor.
 - 💞️ I’m looking to collaborate on DL-related projects, preferably related to CV, NLP, RL, etc.
